@@ -1,0 +1,21 @@
+{
+  "name": "dmitrykorbcon/multiexception",
+  "description": "Multiexception unit",
+  "type": "library",
+  "keywords": [
+    "multiexception"
+  ],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "dmitrykorbcon",
+      "email": "zeptolepto@bk.ru",
+      "role": "junior"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
